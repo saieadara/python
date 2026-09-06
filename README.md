@@ -1,2 +1,4 @@
 # python
-learn all the python coding and projects
+Here all the python code is available.
+from basics to advanced
+
